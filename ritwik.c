@@ -1,8 +1,7 @@
 /*
-    Name: Ritwik Ramesh Kumar Singh
-    Roll No: 2106037
-    Class: CSE-1 Sem-1
+    Name: Ritwik Singh
     This program has been developed in the Linux Environment
+    The program prints out the provided input in a marquee fashion
 */
 
 #include <stdio.h> 
